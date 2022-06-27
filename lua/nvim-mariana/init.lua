@@ -179,8 +179,9 @@ local highlights = {
     rustTSOperator = { fg = '#FA7A57' },
     rustTSPunctBracket = { fg = '#CBD3E2' },
     rustTSPunctDelimiter = { fg = '#A6ACB9' },
-    rustTSType = { fg = '#FAAE57' },
+    rustTSType = { fg = '#5E99D4' },
     rustTSTypeBuiltin = { fg = '#C695C6', italic = true },
+    --rustTSVariableBuiltin = { fg = '#5E99D4' },
     typescriptTSKeyword = { fg = '#EF5D64' },
     -- PATCH_CLOSE
 }
